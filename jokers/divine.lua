@@ -1,3 +1,15 @@
+SMODS.Rarity{
+	key = "divine",
+	loc_txt = {
+		name = "Divine"
+	},
+	badge_colour = G.C.DARK_EDITION,
+	pools = {["Joker"] = false},
+	get_weight = function(self, weight, object_type)
+		return weight
+	end,
+}
+
 local divine_joker_atlas = SMODS.Atlas{
     key = 'divine_jokers',
     path = 'divine_jokers.png',
