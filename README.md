@@ -1,3 +1,5 @@
+*This is a fork of a mod by [nekojoe](https://github.com/nekojoe/Ceres)*
+
 # Ceres
 
 # Important
